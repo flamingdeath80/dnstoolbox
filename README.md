@@ -4,6 +4,4 @@ It also checks MTA-STS and BIMI records, if their corresponding HTTPS hosted fil
 
 Dependancies:
 
-dnspython
-
-requests
+dnspython, requests, sys, re
