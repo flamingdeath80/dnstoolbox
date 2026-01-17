@@ -2,6 +2,8 @@ Python script that checks MX, SPF (includes DNS lookup count), DMARC policy (inc
 
 It also checks MTA-STS and BIMI records, if their corresponding HTTPS hosted files exist
 
+The quality of the checked records are indicated by a traffic light representation
+
 Dependancies:
 
 dnspython, requests, sys, re
