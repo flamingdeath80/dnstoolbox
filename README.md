@@ -31,8 +31,8 @@ The tool uses a traffic light system to indicate record quality:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/dns-email-security-checker.git
-cd dns-email-security-checker
+git clone https://github.com/flamingdeath80/dnstoolbox.git
+cd dnstoolbox
 ```
 
 2. Install required dependencies:
